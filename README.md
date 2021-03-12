@@ -9,3 +9,4 @@ GitHub seems really cool but I think there is a lot for me to learn!
 * item 3
 
 ![](sentosa.jpg)
+![](Merlion.jpg)
